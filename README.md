@@ -1,6 +1,6 @@
 # StudyNotion Online Education Platform (MERN App) [Website Link](https://study-notion-frontend-delta-red.vercel.app/)
 
-![Main Page](https://github.com/CodeXero3/StudyNotion/tree/main/images/HomePage.png)
+![Main Page](https://github.com/gourangpathak/StudyNotion-An-Online-Education-Platform/blob/master/images/mainpage.png)
 
 ## Project Description
 
